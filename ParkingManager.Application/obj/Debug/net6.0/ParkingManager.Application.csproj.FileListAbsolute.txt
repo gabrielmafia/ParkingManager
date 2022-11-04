@@ -1,0 +1,15 @@
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\obj\Debug\net6.0\ParkingManager.Application.csproj.AssemblyReference.cache
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\obj\Debug\net6.0\ParkingManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\obj\Debug\net6.0\ParkingManager.Application.AssemblyInfoInputs.cache
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\obj\Debug\net6.0\ParkingManager.Application.AssemblyInfo.cs
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\obj\Debug\net6.0\ParkingManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\bin\Debug\net6.0\ParkingManager.Application.deps.json
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\bin\Debug\net6.0\ParkingManager.Application.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\bin\Debug\net6.0\ref\ParkingManager.Application.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\bin\Debug\net6.0\ParkingManager.Application.pdb
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\bin\Debug\net6.0\ParkingManager.Domain.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\bin\Debug\net6.0\ParkingManager.Domain.pdb
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\obj\Debug\net6.0\ParkingManager.Application.csproj.CopyComplete
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\obj\Debug\net6.0\ParkingManager.Application.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\obj\Debug\net6.0\ref\ParkingManager.Application.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Application\obj\Debug\net6.0\ParkingManager.Application.pdb

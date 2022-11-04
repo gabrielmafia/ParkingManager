@@ -1,0 +1,12 @@
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\obj\Debug\net6.0\ParkingManager.Domain.csproj.AssemblyReference.cache
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\obj\Debug\net6.0\ParkingManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\obj\Debug\net6.0\ParkingManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\obj\Debug\net6.0\ParkingManager.Domain.AssemblyInfo.cs
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\obj\Debug\net6.0\ParkingManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\bin\Debug\net6.0\ParkingManager.Domain.deps.json
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\bin\Debug\net6.0\ParkingManager.Domain.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\bin\Debug\net6.0\ref\ParkingManager.Domain.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\bin\Debug\net6.0\ParkingManager.Domain.pdb
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\obj\Debug\net6.0\ParkingManager.Domain.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\obj\Debug\net6.0\ref\ParkingManager.Domain.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\ParkingManager.Domain\obj\Debug\net6.0\ParkingManager.Domain.pdb

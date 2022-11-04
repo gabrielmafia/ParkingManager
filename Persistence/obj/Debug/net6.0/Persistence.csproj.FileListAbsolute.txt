@@ -1,0 +1,17 @@
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\bin\Debug\net6.0\ref\Persistence.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\bin\Debug\net6.0\ParkingManager.Application.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\bin\Debug\net6.0\ParkingManager.Domain.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\bin\Debug\net6.0\ParkingManager.Application.pdb
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\bin\Debug\net6.0\ParkingManager.Domain.pdb
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Users\Gabriel Mafia\source\repos\ParkingManager\Persistence\obj\Debug\net6.0\Persistence.pdb

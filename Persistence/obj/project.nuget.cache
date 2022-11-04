@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "wim15VgDh5n3iG9+GReZTeStAg0sMvqd9gJ0+xtGDQ/kSz0XDTRSFJjnOluy6b8ypi4u4vjoTQc+twbgkcjYPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.caching.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-rc.2.22472.3\\microsoft.extensions.caching.memory.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.logging.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-rc.2.22472.3\\microsoft.extensions.options.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-rc.2.22472.3\\microsoft.extensions.primitives.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

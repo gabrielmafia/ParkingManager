@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager\\ParkingManager.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Application\\ParkingManager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Application\\ParkingManager.Application.csproj",
+        "projectName": "ParkingManager.Application",
+        "projectPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Application\\ParkingManager.Application.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel Mafia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/hJ9X4F2WjixoUN9rTJXPBg8sI3qldlifY6oe7z4CnBLTGIYwto/api": {},
+          "https://pris.pkgs.visualstudio.com/c7fff5c7-4b07-4c33-be75-7dffbbf24305/_packaging/OptionsReport/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Domain\\ParkingManager.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Domain\\ParkingManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22472.3, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22472.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Domain\\ParkingManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Domain\\ParkingManager.Domain.csproj",
+        "projectName": "ParkingManager.Domain",
+        "projectPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Domain\\ParkingManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel Mafia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/hJ9X4F2WjixoUN9rTJXPBg8sI3qldlifY6oe7z4CnBLTGIYwto/api": {},
+          "https://pris.pkgs.visualstudio.com/c7fff5c7-4b07-4c33-be75-7dffbbf24305/_packaging/OptionsReport/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager\\ParkingManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager\\ParkingManager.csproj",
+        "projectName": "ParkingManager",
+        "projectPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager\\ParkingManager.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel Mafia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/hJ9X4F2WjixoUN9rTJXPBg8sI3qldlifY6oe7z4CnBLTGIYwto/api": {},
+          "https://pris.pkgs.visualstudio.com/c7fff5c7-4b07-4c33-be75-7dffbbf24305/_packaging/OptionsReport/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Application\\ParkingManager.Application.csproj": {
+                "projectPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Application\\ParkingManager.Application.csproj"
+              },
+              "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\Persistence\\Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel Mafia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/hJ9X4F2WjixoUN9rTJXPBg8sI3qldlifY6oe7z4CnBLTGIYwto/api": {},
+          "https://pris.pkgs.visualstudio.com/c7fff5c7-4b07-4c33-be75-7dffbbf24305/_packaging/OptionsReport/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Application\\ParkingManager.Application.csproj": {
+                "projectPath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager.Application\\ParkingManager.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

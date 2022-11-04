@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6SowPWBOJJFGybQjF2KR/mVwZCA+Yytf/WWPqzqgCbJ41haqzLwkuPYwSRqWOJEYJKcORDQ/uG1uZlnH5/Nog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel Mafia\\source\\repos\\ParkingManager\\ParkingManager\\ParkingManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.caching.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-rc.2.22472.3\\microsoft.extensions.caching.memory.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.logging.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-rc.2.22472.3\\microsoft.extensions.options.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-rc.2.22472.3\\microsoft.extensions.primitives.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Mafia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
