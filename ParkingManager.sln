@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingManager", "ParkingManager\ParkingManager.csproj", "{16C0CE0C-D4BD-4DEE-814C-E67B2F0E03A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkingManager", "ParkingManager\ParkingManager.csproj", "{16C0CE0C-D4BD-4DEE-814C-E67B2F0E03A1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1286ECCF-F086-4AE7-A4C9-5E5E4D54B853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingManager.Application", "ParkingManager.Application\ParkingManager.Application.csproj", "{13924B39-A14B-4321-8FA4-A1A0856F23A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkingManager.Application", "ParkingManager.Application\ParkingManager.Application.csproj", "{13924B39-A14B-4321-8FA4-A1A0856F23A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingManager.Domain", "ParkingManager.Domain\ParkingManager.Domain.csproj", "{BE69D4A8-C805-49DB-99E8-A897F00871C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkingManager.Domain", "ParkingManager.Domain\ParkingManager.Domain.csproj", "{BE69D4A8-C805-49DB-99E8-A897F00871C6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{86F4BE9B-BBB8-409C-9C2E-BC1877BF662C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{491E70B5-CAEC-4A65-A40A-06DDC3D1B0E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\Persistence.csproj", "{491E70B5-CAEC-4A65-A40A-06DDC3D1B0E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{3A62896B-C5EA-40CC-8D9D-4788E8AB2778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingManager.Application.UnitTests", "ParkingManager.Application.UnitTests\ParkingManager.Application.UnitTests.csproj", "{5863EEAD-C5A9-446F-AE68-69FAFA4FD90E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +41,10 @@ Global
 		{491E70B5-CAEC-4A65-A40A-06DDC3D1B0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{491E70B5-CAEC-4A65-A40A-06DDC3D1B0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{491E70B5-CAEC-4A65-A40A-06DDC3D1B0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5863EEAD-C5A9-446F-AE68-69FAFA4FD90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5863EEAD-C5A9-446F-AE68-69FAFA4FD90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5863EEAD-C5A9-446F-AE68-69FAFA4FD90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5863EEAD-C5A9-446F-AE68-69FAFA4FD90E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +53,7 @@ Global
 		{13924B39-A14B-4321-8FA4-A1A0856F23A9} = {1286ECCF-F086-4AE7-A4C9-5E5E4D54B853}
 		{BE69D4A8-C805-49DB-99E8-A897F00871C6} = {1286ECCF-F086-4AE7-A4C9-5E5E4D54B853}
 		{491E70B5-CAEC-4A65-A40A-06DDC3D1B0E4} = {86F4BE9B-BBB8-409C-9C2E-BC1877BF662C}
+		{5863EEAD-C5A9-446F-AE68-69FAFA4FD90E} = {3A62896B-C5EA-40CC-8D9D-4788E8AB2778}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03414B48-EF38-4321-B3B0-5BEA752E5E66}

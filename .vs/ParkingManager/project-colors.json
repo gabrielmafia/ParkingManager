@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16c0ce0c-d4bd-4dee-814c-e67b2f0e03a1": {
+      "ProjectGuid": "16c0ce0c-d4bd-4dee-814c-e67b2f0e03a1",
+      "DisplayName": "ParkingManager",
+      "ColorIndex": 0
+    },
+    "13924b39-a14b-4321-8fa4-a1a0856f23a9": {
+      "ProjectGuid": "13924b39-a14b-4321-8fa4-a1a0856f23a9",
+      "DisplayName": "ParkingManager.Application",
+      "ColorIndex": 1
+    },
+    "491e70b5-caec-4a65-a40a-06ddc3d1b0e4": {
+      "ProjectGuid": "491e70b5-caec-4a65-a40a-06ddc3d1b0e4",
+      "DisplayName": "Persistence",
+      "ColorIndex": 2
+    },
+    "be69d4a8-c805-49db-99e8-a897f00871c6": {
+      "ProjectGuid": "be69d4a8-c805-49db-99e8-a897f00871c6",
+      "DisplayName": "ParkingManager.Domain",
+      "ColorIndex": 3
+    },
+    "5863eead-c5a9-446f-ae68-69fafa4fd90e": {
+      "ProjectGuid": "5863eead-c5a9-446f-ae68-69fafa4fd90e",
+      "DisplayName": "ParkingManager.Application.UnitTests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
