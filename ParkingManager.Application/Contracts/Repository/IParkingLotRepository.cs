@@ -1,10 +1,9 @@
 ﻿using ParkingManager.Domain.Entities;
 
-namespace ParkingManager.Application.Contracts.Repository
+namespace ParkingManager.Application.Contracts.Repository;
+
+public interface IParkingLotRepository
 {
-    public interface IParkingLotRepository
-    {
-        ParkingLot Get();
-        Task Update(ParkingLot parkingLot);
-    }
+    ParkingLot Get();
+    Task Update(ParkingLot parkingLot);
 }

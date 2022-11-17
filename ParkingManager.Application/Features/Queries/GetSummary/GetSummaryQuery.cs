@@ -1,8 +1,5 @@
 ﻿using MediatR;
 
-namespace ParkingManager.Application.Features.Queries
-{
-    public class GetSummaryQuery :IRequest<ParkingLotSummaryVm>
-    {
-    }
-}
+namespace ParkingManager.Application.Features.Queries;
+
+public class GetSummaryQuery :IRequest<ParkingLotSummaryVm> {}

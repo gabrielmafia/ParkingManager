@@ -1,10 +1,9 @@
 ﻿using MediatR;
 using ParkingManager.Domain.Enums;
 
-namespace ParkingManager.Application.Features.Commands.InsertMovement
+namespace ParkingManager.Application.Features.Commands.InsertMovement;
+
+public class RemoveVehicleCommand : IRequest
 {
-    public class RemoveVehicleCommand : IRequest
-    {
-        public VehicleType VehicleType { get; set; }
-    }
+    public VehicleType VehicleType { get; set; }
 }

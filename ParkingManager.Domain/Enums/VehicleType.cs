@@ -1,9 +1,9 @@
-﻿namespace ParkingManager.Domain.Enums
+﻿namespace ParkingManager.Domain.Enums;
+
+public enum VehicleType
 {
-    public enum VehicleType
-    {
-        Motorcycle = 1,
-        Car = 2,
-        Van = 3
-    }
+    Motorcycle = 1,
+    Car = 2,
+    Van = 3,
+    Truck = 4,
 }

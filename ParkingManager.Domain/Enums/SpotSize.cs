@@ -1,9 +1,8 @@
-﻿namespace ParkingManager.Domain.Enums
+﻿namespace ParkingManager.Domain.Enums;
+
+public enum SpotSize
 {
-    public enum SpotSize
-    {
-        Small = 1,
-        Medium = 2,
-        Large = 3
-    }
+    Small = 1,
+    Medium = 2,
+    Large = 3
 }
